@@ -2,6 +2,16 @@
 
 #### You can find us on the old peoples social network [here](https://www.facebook.com/wartenburgberlinbleibt/)
 
+
+
+# Wir wollen bleiben!
+Hier wird gelebt, geliebt,
+gelacht, geweint, diskutiert und kreiert.
+Wir wollen unser Haus nicht dem Zerfall
+überlassen.
+
+
+
 Wir sind ein solidarisches Kollektiv aus
 freischaffenden kreativen jungen Menschen.
 Die Wartenburg ist ein 5 stöckiger Altbau
@@ -10,7 +20,7 @@ mit angrenzendem Garten in der Wartenbergstr. 22
 Das Haus wurde von uns als Kollektiv 2016 erworben, mit der Vision einen Ort zu schaffen, an dem
 wir leben, arbeiten und uns austauschen können.
 
-##Kreativ
+## [Kreativ] (Kreativ)
 
 Wir bauen alles selbst.
 Die Wartenburg soll Plattform für
@@ -22,7 +32,7 @@ Diskussionsrunden.
 Hierbei laden wir unsere Nachbarschaft
 ein dabei zu sein und mit zu gestalten.
 
-##Solidarisch
+## [Solidarisch] (Solidarisch)
 
 In einer anonymen Großstadt wie
 Berlin vergisst man schnell den
@@ -35,7 +45,7 @@ Wir wollen stadtnah erschwingliche
 Mietpreise für Kleingewerbe und Wohnen
 ermöglichen.
 
-##Ökologisch
+##   [Ökologisch] (oekologisch)
 
 Erhalt statt Neubau!
 Wir retten alte Bausubstanzen und
@@ -47,7 +57,7 @@ werden.
 Wir planen Solarzellen auf dem Dach
 und eine Wasseraufbereitungsanlage.
 
-##Was uns bedroht:
+##                                              Was uns bedroht:
 
 Akut will uns der Bezirk die Nutzung
 untersagen und droht mit Räumung.
@@ -81,6 +91,19 @@ vielleicht weniger Kosten
 mit dem Bau einer Autobahn zu haben?
 
 
+#                       Stoppt die Autobahn, Wartenburg bleibt!
+Jede solidarische Unterstützung und
+Erfahrungsaustausch zum Thema ist sehr
+willkommen.
+Danke! Ruwen, Rianne, Skena, Katrin, Micha
+Der mit Hut, Cathrin, Carsten, Ina, Arne,
+Yoyo, Adrian, Tristan, Palia, Hill, Nikete, Annika, Tomas, Jule, Gerad, Christopfer,
+Thea, Martin, Kalli, Ali, Jonny, Chris, Jack, Ralf, Frank & friends
+wartenburg.hausprojekt@gmail.com
+Wartenburg Berlin
+BERLIN, SEPTEMBER 2018
+
+
 
 [our first page building the internets of the burg!](our_first_page)
 
@@ -110,22 +133,6 @@ Syntax highlighted code block
 2. List
 
 
-Wir wollen bleiben!
-Hier wird weiter gelebt, geliebt,
-gelacht, geweint, diskutiert und kreiert.
-Wir wollen unser Haus nicht dem Zerfall
-überlassen.
-Stoppt die Autobahn, Wartenburg bleibt!
-Jede solidarische Unterstützung und
-Erfahrungsaustausch zum Thema ist sehr
-willkommen.
-Danke! Ruwen, Rianne, Skena, Katrin, Micha
-Der mit Hut, Cathrin, Carsten, Ina, Arne,
-Yoyo, Adrian, Tristan, Palia, Hill, Nikete,
-Thea, Chris, Jack, Ralf, Frank & friends
-wartenburg.hausprojekt@gmail.com
-Wartenburg Berlin
-BERLIN, SEPTEMBER 2018
 
 
 **Bold** and _Italic_ and `Code` text
