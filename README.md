@@ -10,7 +10,8 @@ mit angrenzendem Garten in der Wartenbergstr. 22
 Das Haus wurde von uns als Kollektiv 2016 erworben, mit der Vision einen Ort zu schaffen, an dem
 wir leben, arbeiten und uns austauschen können.
 
-Kreativ
+##Kreativ
+
 Wir bauen alles selbst.
 Die Wartenburg soll Plattform für
 Handwerk, Kunst und Kultur sein.
@@ -21,7 +22,8 @@ Diskussionsrunden.
 Hierbei laden wir unsere Nachbarschaft
 ein dabei zu sein und mit zu gestalten.
 
-Solidarisch
+##Solidarisch
+
 In einer anonymen Großstadt wie
 Berlin vergisst man schnell den
 Gemeinschaftsgedanken.
@@ -33,7 +35,8 @@ Wir wollen stadtnah erschwingliche
 Mietpreise für Kleingewerbe und Wohnen
 ermöglichen.
 
-Ökologisch
+##Ökologisch
+
 Erhalt statt Neubau!
 Wir retten alte Bausubstanzen und
 recyceln Baumaterialien.
@@ -44,7 +47,8 @@ werden.
 Wir planen Solarzellen auf dem Dach
 und eine Wasseraufbereitungsanlage.
 
-Was uns bedroht:
+##Was uns bedroht:
+
 Akut will uns der Bezirk die Nutzung
 untersagen und droht mit Räumung.
 Langfristig könnte das Haus
