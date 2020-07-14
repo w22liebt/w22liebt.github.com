@@ -2,6 +2,82 @@
 
 #### You can find us on the old peoples social network [here](https://www.facebook.com/wartenburgberlinbleibt/)
 
+Wir sind ein solidarisches Kollektiv aus
+freischaffenden kreativen jungen Menschen.
+Die Wartenburg ist ein 5 stöckiger Altbau
+mit angrenzendem Garten in der Wartenbergstr. 22
+10365 Berlin/ Lichtenberg, Baujahr 1893.
+Das Haus wurde von uns als Kollektiv 2016 erworben, mit der Vision einen Ort zu schaffen, an dem
+wir leben, arbeiten und uns austauschen können.
+
+Kreativ
+Wir bauen alles selbst.
+Die Wartenburg soll Plattform für
+Handwerk, Kunst und Kultur sein.
+Wir wollen eine offene Fahrradwerkstatt für den Kiez anbieten, einen
+Deutschkurs, geteilte Werkstätten,
+Zeichenunterricht oder philosophische
+Diskussionsrunden.
+Hierbei laden wir unsere Nachbarschaft
+ein dabei zu sein und mit zu gestalten.
+
+Solidarisch
+In einer anonymen Großstadt wie
+Berlin vergisst man schnell den
+Gemeinschaftsgedanken.
+Unser Haus soll ein Ort der Begegnung
+sein, in dem jede_r willkommen ist.
+Wir sind über unser Hausprojekt hinaus
+solidarisch, wenn Hilfe benötigt wird.
+Wir wollen stadtnah erschwingliche
+Mietpreise für Kleingewerbe und Wohnen
+ermöglichen.
+
+Ökologisch
+Erhalt statt Neubau!
+Wir retten alte Bausubstanzen und
+recyceln Baumaterialien.
+Wir fahren zum Messe-Abbau,
+holen altes Holz oder retten Türen
+aus Häusern, bevor sie abgerissen
+werden.
+Wir planen Solarzellen auf dem Dach
+und eine Wasseraufbereitungsanlage.
+
+Was uns bedroht:
+Akut will uns der Bezirk die Nutzung
+untersagen und droht mit Räumung.
+Langfristig könnte das Haus
+auch den Plänen zum Weiterbau
+der A100 zum Opfer fallen.
+
+en:
+Juristisch
+Das Bauamt Lichtenberg will uns die Nutzung
+untersagen. Vorgeschobener Grund:
+Das Gebäude hätte zu lange leergestanden.
+Wir versuchen dagegen vorzugehen und Bestandsschutz
+einzuklagen.
+Das Liegenschaftsamt, das Finanzamt und das
+Grundbuchamt führen das Haus immer schon als
+Wohngebäude.
+Politisch
+Bestandsschutz kann uns auch die Politik zusichern,
+solange das Haus in einem statisch guten Zustand ist:
+Wir haben ein Statik-Gutachten vorliegen,
+welches dem Haus beste Gesundheit diagnostiziert.
+Es bedarf nichts weiter als etwas politischem
+Willen, um die Wartenburg zu retten.
+ -> Radweg statt Autobahn!
+-> Nutzung alter Bausubstanz
+statt Leerstand!
+Warum fördert der Bezirk
+Leerstand, um irgendwann
+vielleicht weniger Kosten
+mit dem Bau einer Autobahn zu haben?
+
+
+
 [our first page building the internets of the burg!](our_first_page)
 
 You can use the [editor on GitHub](https://github.com/w22liebt/w22liebt.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -28,6 +104,25 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+
+
+Wir wollen bleiben!
+Hier wird weiter gelebt, geliebt,
+gelacht, geweint, diskutiert und kreiert.
+Wir wollen unser Haus nicht dem Zerfall
+überlassen.
+Stoppt die Autobahn, Wartenburg bleibt!
+Jede solidarische Unterstützung und
+Erfahrungsaustausch zum Thema ist sehr
+willkommen.
+Danke! Ruwen, Rianne, Skena, Katrin, Micha
+Der mit Hut, Cathrin, Carsten, Ina, Arne,
+Yoyo, Adrian, Tristan, Palia, Hill, Nikete,
+Thea, Chris, Jack, Ralf, Frank & friends
+wartenburg.hausprojekt@gmail.com
+Wartenburg Berlin
+BERLIN, SEPTEMBER 2018
+
 
 **Bold** and _Italic_ and `Code` text
 
