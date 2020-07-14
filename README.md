@@ -6,6 +6,10 @@ You can use the [editor on GitHub](https://github.com/w22liebt/w22liebt.github.c
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+
+To learn about the configuration of the options you can go to [here](https://jekyllrb.com/docs/configuration/)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
