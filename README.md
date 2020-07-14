@@ -20,7 +20,7 @@ mit angrenzendem Garten in der Wartenbergstr. 22
 Das Haus wurde von uns als Kollektiv 2016 erworben, mit der Vision einen Ort zu schaffen, an dem
 wir leben, arbeiten und uns austauschen können.
 
-## [Kreativ] (Kreativ.md)
+## [Kreativ!] (Kreativ)
 
 Wir bauen alles selbst.
 Die Wartenburg soll Plattform für
