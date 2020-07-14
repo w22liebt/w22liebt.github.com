@@ -2,7 +2,7 @@
 
 #### You can find us on the old peoples social network [here](https://www.facebook.com/wartenburgberlinbleibt/)
 
-[our first page building the internets of the burg!](out_first_page)
+[our first page building the internets of the burg!](our_first_page)
 
 You can use the [editor on GitHub](https://github.com/w22liebt/w22liebt.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
