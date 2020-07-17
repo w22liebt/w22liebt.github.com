@@ -86,14 +86,20 @@ Es bedarf nichts weiter als etwas politischem
 Willen, um die Wartenburg zu retten.
  
  
--> Nutzung alter Bausubstanz
+###-> Nutzung alter Bausubstanz
 statt Leerstand!
 Warum fördert der Bezirk
 Leerstand ?
 
-Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 
+
+
+Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 ##[                                                                         Wer wir sind](werwirsind)
+
+
+
+
 
 
 Jede solidarische Unterstützung und
@@ -103,6 +109,8 @@ Danke! Ruwen, Rianne, Skena, Katrin, Micha
 Der mit Hut, Cathrin, Carsten, Ina, Arne,
 Yoyo, Adrian, Tristan, Palia, Hill, Nikete, Annika, Tomas, Jule, Gerad, Christopfer,
 Thea, Martin, Kalli, Ali, Jonny, Chris, Jack, Ralf, Frank & friends
+
+
 wartenburg.hausprojekt@gmail.com
 Wartenburg Berlin
 BERLIN, SEPTEMBER 2018
