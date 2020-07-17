@@ -86,8 +86,7 @@ Es bedarf nichts weiter als etwas politischem
 Willen, um die Wartenburg zu retten.
  
  
-###-> Nutzung alter Bausubstanz
-statt Leerstand!
+### -> Nutzung alter Bausubstanz statt Leerstand!
 Warum fördert der Bezirk
 Leerstand ?
 
@@ -95,7 +94,7 @@ Leerstand ?
 
 
 Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
-##[                                                                         Wer wir sind](werwirsind)
+##[                                                                                       Wer wir sind](werwirsind)
 
 
 
