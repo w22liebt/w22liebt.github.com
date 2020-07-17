@@ -5,32 +5,31 @@
 
 
 # [Wir wollen bleiben!](Wasunsbedroht)
-Hier wird gelebt, geliebt,
-gelacht, geweint, diskutiert und kreiert.
-Wir wollen unser Haus nicht dem Zerfall
-überlassen.
 
-
-
-Wir sind ein solidarisches Kollektiv aus
-freischaffenden kreativen jungen Menschen.
+Das Haus wurde von uns als solidarisches Kollektiv 2016 erworben und wieder aufgepeppelt, mit der Vision einen Ort zu schaffen, 
+an dem wir leben, arbeiten und uns intensiv austauschen können.
 Die Wartenburg ist ein 5 stöckiger Altbau
 mit angrenzendem Garten in der Wartenbergstr. 22
 10365 Berlin/ Lichtenberg, Baujahr 1893.
-Das Haus wurde von uns als Kollektiv 2016 erworben, mit der Vision einen Ort zu schaffen, an dem
-wir leben, arbeiten und uns austauschen können.
+Ihr kennt uns von der Ringbahn (zw Ostkreuz und Frankfurter Allee) 
+
+
+
+Hier wird gelebt, geliebt,
+gelacht, geweint, diskutiert und kreiert.
+Jetzt sollen wir unser eigenes Haus räumen, bevor ein Urteil im Hauptprozess gefällt wurde. 
+Die Nutzungsuntersagung ist unrechtens und wiederspricht den notwendigen Wohnpolitischen Zielen dieser Stadt. 
+Wir wollen unser Haus nicht dem Zerfall überlassen.
 
 ## [Kreativ](Kreativ)
 
 Wir bauen alles selbst.
 Die Wartenburg soll Plattform für
 Handwerk, Kunst und Kultur sein.
-Wir wollen eine offene Fahrradwerkstatt für den Kiez anbieten, einen
-Deutschkurs, geteilte Werkstätten,
-Zeichenunterricht oder philosophische
-Diskussionsrunden.
-Hierbei laden wir unsere Nachbarschaft
-ein dabei zu sein und mit zu gestalten.
+Wir bauen Werkstätten, geben künstlerische Workshops,
+sind eine Präsentations- und Förderplattform für akustische und visuelle Kunst 
+und kuratieren Perfomance und Theater in Berlin und Weltweit.
+
 
 ## [Solidarisch](Solidarisch)
 
@@ -41,6 +40,10 @@ Unser Haus soll ein Ort der Begegnung
 sein, in dem jede_r willkommen ist.
 Wir sind über unser Hausprojekt hinaus
 solidarisch, wenn Hilfe benötigt wird.
+Hierbei laden wir unsere Nachbarschaft in unsere Werkstätten und
+zu unserem kulturellen und informellen Veranstaltungen
+ein sich zu begegnen und gemeinsam zu gestalten.
+
 Wir wollen stadtnah erschwingliche
 Mietpreise für Kleingewerbe und Wohnen
 ermöglichen.
@@ -51,19 +54,17 @@ Erhalt statt Neubau!
 Wir retten alte Bausubstanzen und
 recyceln Baumaterialien.
 Wir fahren zum Messe-Abbau,
-holen altes Holz oder retten Türen
+holen altes Holz oder Türen
 aus Häusern, bevor sie abgerissen
-werden.
-Wir planen Solarzellen auf dem Dach
-und eine Wasseraufbereitungsanlage.
+werden. Arbeiten in ökovisionären Berufen und 
+Engagieren uns in der Lebensmittelrettung.
+Wir arbeiten an Solarzellen auf dem Dach
+und an einer Wasseraufbereitungsanlage.
 
 ##                                              Was uns bedroht:
 
 Akut will uns der Bezirk die Nutzung
 untersagen und droht mit Räumung.
-Langfristig könnte das Haus
-auch den Plänen zum Weiterbau
-der A100 zum Opfer fallen.
 
 en:
 Juristisch
@@ -82,13 +83,12 @@ Wir haben ein Statik-Gutachten vorliegen,
 welches dem Haus beste Gesundheit diagnostiziert.
 Es bedarf nichts weiter als etwas politischem
 Willen, um die Wartenburg zu retten.
- -> Radweg statt Autobahn!
+ 
+ 
 -> Nutzung alter Bausubstanz
 statt Leerstand!
 Warum fördert der Bezirk
-Leerstand, um irgendwann
-vielleicht weniger Kosten
-mit dem Bau einer Autobahn zu haben?
+Leerstand ?
 
 
 #                       Stoppt die Autobahn, Wartenburg bleibt!
