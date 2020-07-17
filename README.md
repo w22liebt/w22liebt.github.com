@@ -90,8 +90,8 @@ statt Leerstand!
 Warum fördert der Bezirk
 Leerstand ?
 
+##[Wer wir sind](werwirsind)
 
-#                       Stoppt die Autobahn, Wartenburg bleibt!
 Jede solidarische Unterstützung und
 Erfahrungsaustausch zum Thema ist sehr
 willkommen.
