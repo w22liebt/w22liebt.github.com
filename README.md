@@ -1,6 +1,6 @@
 ![Image](burglogo.jpg)
 
-#### You can find us on the old peoples social network [here](https://www.facebook.com/wartenburgberlinbleibt/)
+####                      find us on Facebook [here](https://www.facebook.com/wartenburgberlinbleibt/)
 
 
 
