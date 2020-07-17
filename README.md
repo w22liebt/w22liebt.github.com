@@ -62,8 +62,8 @@ Engagieren uns in der Lebensmittelrettung.
 Wir arbeiten an Solarzellen auf dem Dach
 und an einer Wasseraufbereitungsanlage.
 
-##  [                                            Was uns bedroht:](Wasunsbedroht)
-
+##  [                  <br />                          Was uns bedroht:](Wasunsbedroht)
+<br />
 Akut will uns der Bezirk die Nutzung
 untersagen und droht mit Räumung.
 
