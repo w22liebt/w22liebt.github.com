@@ -4,7 +4,7 @@
 
 
 
-# [Wir wollen bleiben!](Wasunsbedroht)
+#                         Wir wollen bleiben!
 
 Das Haus wurde von uns als solidarisches Kollektiv 2016 erworben und wieder aufgepeppelt, mit der Vision einen Ort zu schaffen, 
 an dem wir leben, arbeiten und uns intensiv austauschen können.
@@ -61,7 +61,7 @@ Engagieren uns in der Lebensmittelrettung.
 Wir arbeiten an Solarzellen auf dem Dach
 und an einer Wasseraufbereitungsanlage.
 
-##                                              Was uns bedroht:
+##  [                                            Was uns bedroht:](Wasunsbedroht)
 
 Akut will uns der Bezirk die Nutzung
 untersagen und droht mit Räumung.
