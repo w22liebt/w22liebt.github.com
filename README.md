@@ -1,6 +1,6 @@
 ![Image](burglogo.jpg)
 
-####                      find us on Facebook [here](https://www.facebook.com/wartenburgberlinbleibt/)
+####                      find us on Facebook [Wartenburg Berlin](https://www.facebook.com/wartenburgberlinbleibt/)
 
 
 
@@ -90,7 +90,10 @@ statt Leerstand!
 Warum fördert der Bezirk
 Leerstand ?
 
-##[Wer wir sind](werwirsind)
+Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
+
+##[                                                                         Wer wir sind](werwirsind)
+
 
 Jede solidarische Unterstützung und
 Erfahrungsaustausch zum Thema ist sehr
