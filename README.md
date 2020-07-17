@@ -8,6 +8,7 @@
 
 Das Haus wurde von uns als solidarisches Kollektiv 2016 erworben und wieder aufgepeppelt, mit der Vision einen Ort zu schaffen, 
 an dem wir leben, arbeiten und uns intensiv austauschen können.
+
 Die Wartenburg ist ein 5 stöckiger Altbau
 mit angrenzendem Garten in der Wartenbergstr. 22
 10365 Berlin/ Lichtenberg, Baujahr 1893.
@@ -40,9 +41,9 @@ Unser Haus soll ein Ort der Begegnung
 sein, in dem jede_r willkommen ist.
 Wir sind über unser Hausprojekt hinaus
 solidarisch, wenn Hilfe benötigt wird.
-Hierbei laden wir unsere Nachbarschaft in unsere Werkstätten und
+Hierbei laden wir unsere Nachtbarschaft in unsere Gemeinschafts- und Veranstaltungsräume, in unsere Werkstätten und
 zu unserem kulturellen und informellen Veranstaltungen
-ein sich zu begegnen und gemeinsam zu gestalten.
+ein um sich zu begegnen und um gemeinsam zu gestalten.
 
 Wir wollen stadtnah erschwingliche
 Mietpreise für Kleingewerbe und Wohnen
