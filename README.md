@@ -95,10 +95,17 @@ Leerstand ?
 
 Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 ##[                                                                                       Wer wir sind](werwirsind)
+ 
+ 
+ 
 
 
 
 
+ 
+
+
+ 
 
 
 Jede solidarische Unterstützung und
