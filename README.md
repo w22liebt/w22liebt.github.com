@@ -90,18 +90,18 @@ Willen, um die Wartenburg zu retten.
 Warum fördert der Bezirk
 Leerstand ?
 
-
-
+<br />
+<br />
 
 Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 ##[                                                                                       Wer wir sind](werwirsind)
  
  
  
+<br />
+<br />
 
-
-
-
+<br />
  
 
 
