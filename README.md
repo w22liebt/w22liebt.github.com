@@ -23,6 +23,8 @@ Die Nutzungsuntersagung ist unrechtens und wiederspricht den notwendigen Wohnpol
 Wir wollen unser Haus nicht dem Zerfall überlassen.
 
 ![Image](DSC01328.jpg)
+![Image](burglogo.jpg)
+
 
 <br />
 <br />
