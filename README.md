@@ -1,4 +1,4 @@
-![Image](burglogo.jpg)
+![Image](burglogo.jpg width="40%")
 
 ####                      find us on Facebook [Wartenburg Berlin](https://www.facebook.com/wartenburgberlinbleibt/)
 
@@ -23,7 +23,6 @@ Die Nutzungsuntersagung ist unrechtens und wiederspricht den notwendigen Wohnpol
 Wir wollen unser Haus nicht dem Zerfall überlassen.
 
 ![Image](DSC01328.jpg)
-########## ![Image](burglogo.jpg)
 
 
 
