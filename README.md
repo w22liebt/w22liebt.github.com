@@ -1,4 +1,4 @@
-![Image](wirwollenbleiben)
+![Image](wirwollenbleiben.JPG)
 
 ![Image](burglogo.jpg)
 
