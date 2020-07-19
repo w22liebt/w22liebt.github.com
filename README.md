@@ -14,8 +14,8 @@ mit angrenzendem Garten in der Wartenbergstr. 22
 Ihr kennt uns von der Ringbahn (zw Ostkreuz und Frankfurter Allee) 
 ![Image](burgpannorama.JPG)
 
-
-
+<br />
+<br />
 Hier wird gelebt, geliebt,
 gelacht, geweint, diskutiert und kreiert.
 Jetzt sollen wir unser eigenes Haus räumen, bevor ein Urteil im Hauptprozess gefällt wurde. 
