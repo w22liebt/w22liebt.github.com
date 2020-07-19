@@ -30,7 +30,36 @@ Wir wollen unser Haus nicht dem Zerfall überlassen.
 <br />
 <br />
 
+##  [                  <br />                          Was uns bedroht:](Wasunsbedroht)
+<br />
+Akut will uns der Bezirk die Nutzung
+untersagen und droht mit Räumung.
 
+
+Das Bauamt Lichtenberg untersagt uns die Nutzung für unser Gebäude und droht mehrere 10.000€ Strafe an wenn wir es nicht räumen. Wir sollen aktuell dem Bauamt beweisen, dass unser Haus ein Bestands-Wohngebäude ist.Das Gebäude hätte zu lange leergestanden. Das soll eigentlich in einem regulären Gerichtsprozess entschieden werden. Dem Amt geht das allerdings nicht schnell genug. Wegen „negativer Vorbildwirkung einer neu begonnen Nutzung“ fordert es, dass wir das Haus sofort räumen, und bis zu einer richterlichen Entscheidung leer stehen lassen. Als Konsequenz eines ähnlichen Vorgehens durch das Amt wurde das Nachbargebäude [Wartenbergstraße 21 ](Wartenberg21) nach längerem Leerstand abgerissen.
+Bereits in den ersten Kommunikationen mit dem Amt wurden wir dazu aufgefordert einen Bauantrag für ein Gewerbegebäude zu stellen. Diese Forderung würde für uns bedeuten, dass wir einen klassischen Berliner Wohnbau wie ihn tausende von Berlinern bestandsgeschützt bewohnen zu einem Gewerbegebäude nach aktuellem Baurecht umbauen müssten. Hölzerne Türen, Böden und Treppenauflagen müssten teurem Stahl und Beton weichen. 
+Die Forderung des Amts beruht auf zwei Punkten () die gerichtlich bereits entschieden wurden bzw. Gegenstand des noch ausstehenden Hauptprozesses sind. Wir haben als Gruppe in Eigenleistung ein Gebäude wieder vollständig nutzbar gemacht und sollen es nun bis zum Hauptprozess den Gefahren des Leerstands preisgeben. Unter Strafandrohung werden wir dazu aufgefordert woanders nach Mietmöglichkeiten zu suchen. 
+
+Das Liegenschaftsamt, das Finanzamt und das
+Grundbuchamt führen das Haus immer schon als
+Wohngebäude.
+Politisch
+Bestandsschutz kann uns auch die Politik zusichern,
+solange das Haus in einem statisch guten Zustand ist:
+Wir haben ein Statik-Gutachten vorliegen,
+welches dem Haus beste Gesundheit diagnostiziert.
+Es bedarf nichts weiter als etwas politischem
+Willen, um die Wartenburg zu retten.
+ 
+ 
+### -> Nutzung alter Bausubstanz statt Leerstand!
+Warum fördert der Bezirk
+Leerstand ?
+
+<br />
+<br />
+
+Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 ## [Kreativ](Kreativ)
 
 Wir bauen alles selbst.
@@ -71,38 +100,7 @@ Engagieren uns in der Lebensmittelrettung.
 Wir arbeiten an Solarzellen auf dem Dach
 und an einer Wasseraufbereitungsanlage.
 
-##  [                  <br />                          Was uns bedroht:](Wasunsbedroht)
-<br />
-Akut will uns der Bezirk die Nutzung
-untersagen und droht mit Räumung.
 
-en:
-Juristisch
-Das Bauamt Lichtenberg will uns die Nutzung
-untersagen. Vorgeschobener Grund:
-Das Gebäude hätte zu lange leergestanden.
-Wir versuchen dagegen vorzugehen und Bestandsschutz
-einzuklagen.
-Das Liegenschaftsamt, das Finanzamt und das
-Grundbuchamt führen das Haus immer schon als
-Wohngebäude.
-Politisch
-Bestandsschutz kann uns auch die Politik zusichern,
-solange das Haus in einem statisch guten Zustand ist:
-Wir haben ein Statik-Gutachten vorliegen,
-welches dem Haus beste Gesundheit diagnostiziert.
-Es bedarf nichts weiter als etwas politischem
-Willen, um die Wartenburg zu retten.
- 
- 
-### -> Nutzung alter Bausubstanz statt Leerstand!
-Warum fördert der Bezirk
-Leerstand ?
-
-<br />
-<br />
-
-Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 ##[                                                                                       Wer wir sind](werwirsind)
  
  
