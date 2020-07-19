@@ -2,10 +2,6 @@
 
 ####                      find us on Facebook [Wartenburg Berlin](https://www.facebook.com/wartenburgberlinbleibt/)
 
-
-
-#                         Wir wollen bleiben!
-
 Das Haus wurde von uns als solidarisches Kollektiv 2016 erworben und wieder aufgepeppelt, mit der Vision einen Ort zu schaffen, 
 an dem wir leben, arbeiten und uns intensiv austauschen können.
 
