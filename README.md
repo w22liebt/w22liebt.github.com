@@ -1,3 +1,5 @@
+![Image](wirwollenbleiben.jpg)
+
 ![Image](burglogo.jpg)
 
 ####                      find us on Facebook [Wartenburg Berlin](https://www.facebook.com/wartenburgberlinbleibt/)
