@@ -20,7 +20,9 @@ gelacht, geweint, diskutiert und kreiert.
 Jetzt sollen wir unser eigenes Haus räumen, bevor ein Urteil im Hauptprozess gefällt wurde. 
 Die Nutzungsuntersagung ist unrechtens und wiederspricht den notwendigen Wohnpolitischen Zielen dieser Stadt. 
 Wir wollen unser Haus nicht dem Zerfall überlassen.
+
 <br />
+
 ![Image](3erFasade.JPG)
 
 
