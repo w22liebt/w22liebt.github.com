@@ -22,7 +22,8 @@ Jetzt sollen wir unser eigenes Haus räumen, bevor ein Urteil im Hauptprozess ge
 Die Nutzungsuntersagung ist unrechtens und wiederspricht den notwendigen Wohnpolitischen Zielen dieser Stadt. 
 Wir wollen unser Haus nicht dem Zerfall überlassen.
 
-![Image](DSC01328.jpg)
+![Image](3erAbriss.JPG)
+
 
 
 
