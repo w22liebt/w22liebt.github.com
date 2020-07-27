@@ -62,7 +62,7 @@ Leerstand ?
 <br />b
 Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 
-![Image](Philosophie.jpg)
+![Image](Philosophie.jpg.jpg)
 <br /><br />
 ## [Kreativ](Kreativ)
 
