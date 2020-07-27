@@ -2,7 +2,7 @@
 ![Image](burglogo.jpg)
 
 
-####                      find us on Facebook [Wartenburg Berlin](https://www.facebook.com/wartenburgberlinbleibt/)
+
 
 Das Haus wurde von uns als solidarisches Kollektiv 2016 erworben und wieder aufgepeppelt, mit der Vision einen Ort zu schaffen, 
 an dem wir leben, arbeiten und uns intensiv austauschen können.
@@ -114,7 +114,7 @@ und an einer Wasseraufbereitungsanlage.
 
 
  
-
+####                      find us on Facebook [Wartenburg Berlin](https://www.facebook.com/wartenburgberlinbleibt/)
 
 Jede solidarische Unterstützung und
 Erfahrungsaustausch zum Thema ist sehr
