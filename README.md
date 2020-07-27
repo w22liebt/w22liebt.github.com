@@ -54,7 +54,7 @@ Willen, um die Wartenburg zu retten.
 
 <br />
 <br />
-##  [                                         Was wir wollen:](Waswirwollen)
+##  [                                         Was wir wollen: ](Waswirwollen)
 <br />
 Wir besitzen und bewohnen die Wartenburg. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 
