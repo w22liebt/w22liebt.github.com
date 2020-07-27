@@ -55,7 +55,7 @@ Willen, um die Wartenburg zu retten.
 <br />
 ##  [                                         Was wir wollen: ](Waswirwollen)
 <br />
-Wir besitzen und bewohnen die Wartenburg. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
+Wir besitzen und bewohnen die Wartenburg. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam. Für uns und unser erweitertes Umfeld.
 
 ![Image](Philosophie.jpg.jpg)
 <br /><br />
@@ -127,7 +127,7 @@ Thea, Martin, Kalli, Ali, Jonny, Chris, Jack, Ralf, Frank & friends
 ![Image](abrissnutzung.JPG)
 wartenburg.hausprojekt@gmail.com
 Wartenburg Berlin
-BERLIN, SEPTEMBER 2018
+BERLIN, JULI 2020
 
 
 
