@@ -29,7 +29,6 @@ Wir wollen unser Haus nicht dem Zerfall überlassen.
 
 
 <br />
-<br />
 
 ##  [                  <br />                          Was uns bedroht:](Wasunsbedroht)
 <br />
@@ -59,7 +58,7 @@ Leerstand ?
 
 <br />
 <br />
-
+##  [                  <br />                          Was wir wollen:](Waswirwollen)
 Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 ## [Kreativ](Kreativ)
 
