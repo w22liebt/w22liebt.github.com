@@ -101,7 +101,7 @@ und an einer Wasseraufbereitungsanlage.
 <br />
 <br />
 
-##  [                                                                                       Wer wir sind: ##### (Klick Hier)](Werwirsind)
+##  [                                                                                       Wer wir sind: ](Werwirsind)
  
  
  
