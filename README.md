@@ -30,7 +30,7 @@ Wir wollen unser Haus nicht dem Zerfall überlassen.
 
 <br />
 
-##  [                  <br />                          Was uns bedroht:](Wasunsbedroht)
+##  [                                          Was uns bedroht:](Wasunsbedroht)
 <br />
 Akut will uns der Bezirk die Nutzung
 untersagen und droht mit Räumung.
