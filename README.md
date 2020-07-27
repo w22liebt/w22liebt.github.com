@@ -109,7 +109,7 @@ und an einer Wasseraufbereitungsanlage.
  
  
 <br />
-![Image](burgschrifttzoom.JPG)
+![Image](Biogen1.JPG)
 <br />
 
 <br />
