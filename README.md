@@ -23,7 +23,7 @@ Wir wollen unser Haus nicht dem Zerfall überlassen.
 
 <br />
 
-![Image](3erFasade.JPG)
+![Image](3erFasadegrau.PNG.png)
 
 
 
