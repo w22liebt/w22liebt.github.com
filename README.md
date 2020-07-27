@@ -20,8 +20,6 @@ Jetzt sollen wir unser eigenes Haus räumen, bevor ein Urteil im Hauptprozess ge
 Die Nutzungsuntersagung ist unrechtens und wiederspricht den notwendigen Wohnpolitischen Zielen dieser Stadt. 
 Wir wollen unser Haus nicht dem Zerfall überlassen.
 
-<br />
-
 ![Image](3erFasadegrau.PNG.png)
 
 
@@ -51,9 +49,8 @@ Es bedarf nichts weiter als etwas politischem
 Willen, um die Wartenburg zu retten.
  
  
-### -> Nutzung alter Bausubstanz statt Leerstand!
-Warum fördert der Bezirk
-Leerstand ?
+##### -> Nutzung alter Bausubstanz statt Leerstand!
+
 
 <br />
 <br />
@@ -63,7 +60,7 @@ Wir besitzen und bewohnen die Wartenburg. Restaurieren, Planen, Gestalten, trage
 
 ![Image](Philosophie.jpg.jpg)
 <br /><br />
-## [Kreativ](Kreativ)
+# [Kreativ](Kreativ)
 
 Wir bauen alles selbst.
 Die Wartenburg soll Plattform für
@@ -73,7 +70,7 @@ sind eine Präsentations- und Förderplattform für akustische und visuelle Kuns
 und kuratieren Perfomance und Theater in Berlin und Weltweit.
 
 
-## [Solidarisch](Solidarisch)
+# [Solidarisch](Solidarisch)
 
 In einer anonymen Großstadt wie
 Berlin vergisst man schnell den
@@ -90,7 +87,7 @@ Wir wollen stadtnah erschwingliche
 Mietpreise für Kleingewerbe und Wohnen
 ermöglichen.
 
-##   [Ökologisch](oekologisch)
+#   [Ökologisch](oekologisch)
 
 Erhalt statt Neubau!
 Wir retten alte Bausubstanzen und
