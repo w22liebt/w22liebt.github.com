@@ -104,7 +104,7 @@ Wir arbeiten an Solarzellen auf dem Dach
 und an einer Wasseraufbereitungsanlage.
 
 
-##[                                                                                       Wer wir sind](werwirsind)
+##  [                                                                                       Wer wir sind:](werwirsind)
  
  
  
