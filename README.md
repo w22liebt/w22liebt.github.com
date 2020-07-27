@@ -60,7 +60,7 @@ Wir besitzen und bewohnen die Wartenburg. Restaurieren, Planen, Gestalten, trage
 
 ![Image](Philosophie.jpg.jpg)
 <br /><br />
-# [Kreativ](Kreativ)
+### [Kreativ](Kreativ)
 
 Wir bauen alles selbst.
 Die Wartenburg soll Plattform für
@@ -70,7 +70,7 @@ sind eine Präsentations- und Förderplattform für akustische und visuelle Kuns
 und kuratieren Perfomance und Theater in Berlin und Weltweit.
 
 
-# [Solidarisch](Solidarisch)
+### [Solidarisch](Solidarisch)
 
 In einer anonymen Großstadt wie
 Berlin vergisst man schnell den
@@ -87,7 +87,7 @@ Wir wollen stadtnah erschwingliche
 Mietpreise für Kleingewerbe und Wohnen
 ermöglichen.
 
-#   [Ökologisch](oekologisch)
+###  [Ökologisch](oekologisch)
 
 Erhalt statt Neubau!
 Wir retten alte Bausubstanzen und
@@ -101,7 +101,7 @@ Wir arbeiten an Solarzellen auf dem Dach
 und an einer Wasseraufbereitungsanlage.
 
 
-##  [                                                                                       Wer wir sind:(Klick Hier)](Werwirsind)
+##  [                                                                                       Wer wir sind:#####(Klick Hier)](Werwirsind)
  
  
  
