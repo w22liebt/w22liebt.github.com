@@ -59,8 +59,8 @@ Leerstand ?
 <br />
 <br />
 ##  [                                         Was wir wollen:](Waswirwollen)
-<br />b
-Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
+<br />ü
+Wir besitzen und bewohnen die Wartenburg. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 
 ![Image](Philosophie.jpg.jpg)
 <br /><br />
