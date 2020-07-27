@@ -30,7 +30,7 @@ Wir wollen unser Haus nicht dem Zerfall überlassen.
 ##  [                                          Was uns bedroht:](Wasunsbedroht)
 <br />
 #### Akut will uns der Bezirk die Nutzung untersagen und droht mit Räumung.
-
+<br />
 
 Das Bauamt Lichtenberg untersagt uns die Nutzung für unser Gebäude und droht mehrere 10.000€ Strafe an wenn wir es nicht räumen. Wir sollen aktuell dem Bauamt beweisen, dass unser Haus ein Bestands-Wohngebäude ist.Das Gebäude hätte zu lange leergestanden. Das soll eigentlich in einem regulären Gerichtsprozess entschieden werden. Dem Amt geht das allerdings nicht schnell genug. Wegen „negativer Vorbildwirkung einer neu begonnen Nutzung“ fordert es, dass wir das Haus sofort räumen, und bis zu einer richterlichen Entscheidung leer stehen lassen. Als Konsequenz eines ähnlichen Vorgehens durch das Amt wurde das Nachbargebäude [Wartenbergstraße 21 ](Wartenberg21) nach längerem Leerstand abgerissen.
 Bereits in den ersten Kommunikationen mit dem Amt wurden wir dazu aufgefordert einen Bauantrag für ein Gewerbegebäude zu stellen. Diese Forderung würde für uns bedeuten, dass wir einen klassischen Berliner Wohnbau wie ihn tausende von Berlinern bestandsgeschützt bewohnen zu einem Gewerbegebäude nach aktuellem Baurecht umbauen müssten. Hölzerne Türen, Böden und Treppenauflagen müssten teurem Stahl und Beton weichen. 
