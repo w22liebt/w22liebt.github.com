@@ -58,7 +58,7 @@ Leerstand ?
 
 <br />
 <br />
-##  [                  <br />                          Was wir wollen:](Waswirwollen)
+##  [                                         Was wir wollen:](Waswirwollen)
 Wir besitzen und bewohnen die Wartenburg gemeinsam. Restaurieren, Planen, Gestalten, tragen Organisation und Verantwortung gemeinsam.
 ## [Kreativ](Kreativ)
 
