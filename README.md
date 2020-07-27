@@ -99,9 +99,10 @@ werden. Arbeiten in ökovisionären Berufen und
 Engagieren uns in der Lebensmittelrettung.
 Wir arbeiten an Solarzellen auf dem Dach
 und an einer Wasseraufbereitungsanlage.
+<br />
+<br />
 
-
-##  [                                                                                       Wer wir sind:#####(Klick Hier)](Werwirsind)
+##  [                                                                                       Wer wir sind: ##### (Klick Hier)](Werwirsind)
  
  
  
