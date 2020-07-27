@@ -126,7 +126,7 @@ Der mit Hut, Cathrin, Carsten, Ina, Arne,
 Yoyo, Adrian, Tristan, Palia, Hill, Nikete, Annika, Tomas, Jule, Gerad, Christopfer,
 Thea, Martin, Kalli, Ali, Jonny, Chris, Jack, Ralf, Frank & friends
 
-![Image](abrissnutzung.jpg)
+![Image](abrissnutzung.JPG)
 wartenburg.hausprojekt@gmail.com
 Wartenburg Berlin
 BERLIN, SEPTEMBER 2018
