@@ -109,7 +109,7 @@ und an einer Wasseraufbereitungsanlage.
  
  
 <br />
-![Image](burgschrifttzoomeff.jpg)
+![Image](burgschrifttzoom.JPG)
 <br />
 
 <br />
