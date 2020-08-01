@@ -10,7 +10,7 @@ an dem wir leben, arbeiten und uns intensiv austauschen können.
 Die Wartenburg ist ein 5 stöckiger Altbau
 mit angrenzendem Garten in der Wartenbergstr. 22
 10365 Berlin/ Lichtenberg, Baujahr 1893.
-#### Ihr kennt uns von der Ringbahn (zw Ostkreuz und Frankfurter Allee) 
+#### [                                          Ihr kennt uns von der Ringbahn (zw Ostkreuz und Frankfurter Allee)]
 ![Image](burgpannorama.JPG)
 
 <br />
