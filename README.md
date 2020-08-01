@@ -61,43 +61,41 @@ Wir besitzen und bewohnen die Wartenburg. Restaurieren, Planen, Gestalten, trage
 <br /><br />
 ### [Kreativ](Kreativ)
 
-Wir bauen alles selbst.
-Die Wartenburg soll Plattform für
-Handwerk, Kunst und Kultur sein.
-Wir bauen Werkstätten, geben künstlerische Workshops,
-sind eine Präsentations- und Förderplattform für akustische und visuelle Kunst 
-und kuratieren Perfomance und Theater in Berlin und Weltweit.
+-künstlerisch und handwerklich arbeitende Bewohner des Hauses: 
+ (Filmemacherinnen, Fotografin, Maler, Theatermacher, Tänzerinnen, Plastiker, Tischler, RestaurateurIn, Steinmetze, Segel- und Zeltmacherin, Köche und Bootsbauer)
+-zustellungsflächen für Künstler mit Ringbahnblick
+ regelmäßiges musizieren mit Bewohnern, Gästen, Kindern und eingeladenen Musikern
+-Gemeinschaftsflächen für Kunst und Kulturvorhaben
+-beliebter Ort für Filmdrehs und Fotoshootings
+-Artistikübungsfläche im Innenhof
+-“Außenstelle“ Esperantos (selbstgebauter Hochseekatamaran segelt als Theaterbühne und Wassermessstation dieses Jahr vom schwarzen Meer nach Griechenland)tweit.
 
 
 ### [Solidarisch](Solidarisch)
 
-In einer anonymen Großstadt wie
-Berlin vergisst man schnell den
-Gemeinschaftsgedanken.
-Unser Haus soll ein Ort der Begegnung
-sein, in dem jede_r willkommen ist.
-Wir sind über unser Hausprojekt hinaus
-solidarisch, wenn Hilfe benötigt wird.
-Hierbei laden wir unsere Nachtbarschaft in unsere Gemeinschafts- und Veranstaltungsräume, in unsere Werkstätten und
-zu unserem kulturellen und informellen Veranstaltungen
-ein um sich zu begegnen und um gemeinsam zu gestalten.
-
-Wir wollen stadtnah erschwingliche
-Mietpreise für Kleingewerbe und Wohnen
-ermöglichen.
+-Resedenzförderprogramm für Frauen mit innovativen Ideen zur Verbesserung der Lage der Welt
+-gesicherter günstiger Wohnraum
+-aktive Unterstützungen für private und berufliche Vorhaben aller Bewohner
+-Inspiration und Kompetenzaustausch
+-Einsatz für lebendige und anonymisierte Hausgemeinschaft UND Nachbarschaft
+-Kietzführungen zu Lichtenberger Sehenswürdigkeiten
+-internationale Bewohner mit Sprachtandem
+-kostenloses Gästezimmer für Reisende, Voluntaire und Neuankömmlinge
+-Pflege der umliegenden Außenflächen 
+ (Nachtbargrundstück wird zum Garten, Cleaning-up-actions, Fassadenrenovierung)
 
 ###  [Ökologisch](oekologisch)
 
-Erhalt statt Neubau!
-Wir retten alte Bausubstanzen und
-recyceln Baumaterialien.
-Wir fahren zum Messe-Abbau,
-holen altes Holz oder Türen
-aus Häusern, bevor sie abgerissen
-werden. Arbeiten in ökovisionären Berufen und 
-Engagieren uns in der Lebensmittelrettung.
-Wir arbeiten an Solarzellen auf dem Dach
-und an einer Wasseraufbereitungsanlage.
+-Erhalt der ursprünglichen Bausubstanz
+-bau mit traditionellen, re- und upcycling Materialien
+-Rettung von historischen Baustoffen aus aufgegebenen Abrissprojekten
+-Verbesserung des Wärmeisolationswertes 
+-Solaranlagen ergänzen den Stromverbrauch
+-aktive und organisierte Lebensmittelrettung und Verteilung
+-Anlegen eines Gartens Wartenbergstr 22+21
+-Grünfasade mit Brauchwasseraufbereitung( in Planung
+-Fledermausschutzprogramm
+-Gemeinschaftsauto für große Transporte – Rest mit Fahrrad oder Öffis
 <br />
 <br />
 
