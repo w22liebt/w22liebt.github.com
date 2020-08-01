@@ -32,9 +32,9 @@ Wir wollen unser Haus nicht dem Zerfall überlassen.
 #### Akut will uns der Bezirk die Nutzung untersagen und droht mit Räumung.
 <br />
 
-Das Bauamt Lichtenberg untersagt uns die Nutzung für unser Gebäude und droht mehrere 10.000€ Strafe an wenn wir es nicht räumen. Wir sollen aktuell dem Bauamt beweisen, dass unser Haus ein Bestands-Wohngebäude ist.Das Gebäude hätte zu lange leergestanden. Das soll eigentlich in einem regulären Gerichtsprozess entschieden werden. Dem Amt geht das allerdings nicht schnell genug. Wegen „negativer Vorbildwirkung einer neu begonnen Nutzung“ fordert es, dass wir das Haus sofort räumen, und bis zu einer richterlichen Entscheidung leer stehen lassen. Als Konsequenz eines ähnlichen Vorgehens durch das Amt wurde das Nachbargebäude [Wartenbergstraße 21 ](Wartenbergstr21) nach längerem Leerstand abgerissen.
+Das Bauamt Lichtenberg untersagt uns die Nutzung für unser Gebäude und droht mehrere 10.000€ Strafe an wenn wir es nicht räumen. Wir sollen aktuell dem Bauamt beweisen, dass unser Haus ein Bestands-Wohngebäude ist.Das Gebäude hätte zu lange leergestanden. Das soll eigentlich in einem regulären Gerichtsprozess entschieden werden. Dem Amt geht das allerdings nicht schnell genug. Wegen „negativer Vorbildwirkung einer neu begonnen Nutzung“ fordert es, dass wir das Haus sofort räumen, und bis zu einer richterlichen Entscheidung leer stehen lassen. Als Konsequenz eines ähnlichen Vorgehens durch das Amt wurde das Nachbargebäude [Wartenbergstraße 21 (Klick Hier)](Wartenbergstr21) nach längerem Leerstand abgerissen.
 Bereits in den ersten Kommunikationen mit dem Amt wurden wir dazu aufgefordert einen Bauantrag für ein Gewerbegebäude zu stellen. Diese Forderung würde für uns bedeuten, dass wir einen klassischen Berliner Wohnbau wie ihn tausende von Berlinern bestandsgeschützt bewohnen zu einem Gewerbegebäude nach aktuellem Baurecht umbauen müssten. Hölzerne Türen, Böden und Treppenauflagen müssten teurem Stahl und Beton weichen. 
-Die Forderung des Amts beruht auf zwei Punkten () die gerichtlich bereits entschieden wurden bzw. Gegenstand des noch ausstehenden Hauptprozesses sind. Wir haben als Gruppe in Eigenleistung ein Gebäude wieder vollständig nutzbar gemacht und sollen es nun bis zum [Hauptprozess](Hauptprozess) den Gefahren des Leerstands preisgeben. Unter Strafandrohung werden wir dazu aufgefordert woanders nach Mietmöglichkeiten zu suchen. 
+Die Forderung des Amts beruht auf zwei Punkten () die gerichtlich bereits entschieden wurden bzw. Gegenstand des noch ausstehenden Hauptprozesses sind. Wir haben als Gruppe in Eigenleistung ein Gebäude wieder vollständig nutzbar gemacht und sollen es nun bis zum [Hauptprozess (Klick Hier)](Hauptprozess) den Gefahren des Leerstands preisgeben. Unter Strafandrohung werden wir dazu aufgefordert woanders nach Mietmöglichkeiten zu suchen. 
 
 Das Liegenschaftsamt, das Finanzamt und das
 Grundbuchamt führen das Haus immer schon als
@@ -99,7 +99,7 @@ Wir besitzen und bewohnen die Wartenburg. Restaurieren, Planen, Gestalten, trage
 <br />
 <br />
 
-##  [                                                                                       Wer wir sind: ](Werwirsind)
+##  [                                                                                       Wer wir sind: (Klick Hier) ](Werwirsind)
  
  
  
@@ -112,7 +112,7 @@ Wir besitzen und bewohnen die Wartenburg. Restaurieren, Planen, Gestalten, trage
 
 
  
-####                      find us on Facebook [Wartenburg Berlin](https://www.facebook.com/wartenburgberlinbleibt/)
+####                      find us on Facebook [Wartenburg Berlin   (Klick Hier)](https://www.facebook.com/wartenburgberlinbleibt/)
 
 Jede solidarische Unterstützung und
 Erfahrungsaustausch zum Thema ist sehr
