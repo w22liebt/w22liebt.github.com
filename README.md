@@ -4,20 +4,20 @@
 
 
 
-Das Haus wurde von uns als solidarisches Kollektiv 2016 erworben und wieder aufgepeppelt, mit der Vision einen Ort zu schaffen, 
+Das Haus wurde von uns als solidarisches Kollektiv 2016 erworben und umsorgt, mit der Vision einen Ort zu schaffen, 
 an dem wir leben, arbeiten und uns intensiv austauschen können.
 
-Die Wartenburg ist ein 5 stöckiger Altbau
-mit angrenzendem Garten in der Wartenbergstr. 22
-10365 Berlin/ Lichtenberg, Baujahr 1893.
-#### [                                          Ihr kennt uns von der Ringbahn (zw Ostkreuz und Frankfurter Allee)]
+Die Wartenburg ist ein 5 stöckiger Altbau, der als typisches berliner Wohnhaus im Jahre 1893 
+mit angrenzendem Garten in der Wartenbergstr. 22 errichtet wurde.
+10365 Berlin/ Lichtenberg.
+#### [                                          Ihr kennt uns von der Ringbahn (zw. Ostkreuz und Frankfurter Allee)]
 ![Image](burgpannorama.JPG)
 
 <br />
 Hier wird gelebt, geliebt,
 gelacht, geweint, diskutiert und kreiert.
 Jetzt sollen wir unser eigenes Haus räumen, bevor ein Urteil im Hauptprozess gefällt wurde. 
-Die Nutzungsuntersagung ist unrechtens und wiederspricht den notwendigen Wohnpolitischen Zielen dieser Stadt. 
+Die Nutzungsuntersagung ist unrechtens und wiederspricht den notwendigen wohnpolitischen Zielen dieser Stadt. 
 Wir wollen unser Haus nicht dem Zerfall überlassen.
 
 ![Image](3erFasadegrau.PNG.png)
@@ -32,8 +32,8 @@ Wir wollen unser Haus nicht dem Zerfall überlassen.
 #### Akut will uns der Bezirk die Nutzung untersagen und droht mit Räumung.
 <br />
 
-Das Bauamt Lichtenberg untersagt uns die Nutzung für unser Gebäude und droht mehrere 10.000€ Strafe an wenn wir es nicht räumen. Wir sollen aktuell dem Bauamt beweisen, dass unser Haus ein Bestands-Wohngebäude ist.Das Gebäude hätte zu lange leergestanden. Das soll eigentlich in einem regulären Gerichtsprozess entschieden werden. Dem Amt geht das allerdings nicht schnell genug. Wegen „negativer Vorbildwirkung einer neu begonnen Nutzung“ fordert es, dass wir das Haus sofort räumen, und bis zu einer richterlichen Entscheidung leer stehen lassen. Als Konsequenz eines ähnlichen Vorgehens durch das Amt wurde das Nachbargebäude [Wartenbergstraße 21 (Klick Hier)](Wartenbergstr21) nach längerem Leerstand abgerissen.
-Bereits in den ersten Kommunikationen mit dem Amt wurden wir dazu aufgefordert einen Bauantrag für ein Gewerbegebäude zu stellen. Diese Forderung würde für uns bedeuten, dass wir einen klassischen Berliner Wohnbau wie ihn tausende von Berlinern bestandsgeschützt bewohnen zu einem Gewerbegebäude nach aktuellem Baurecht umbauen müssten. Hölzerne Türen, Böden und Treppenauflagen müssten teurem Stahl und Beton weichen. 
+Das Bauamt Lichtenberg untersagt uns die Wohnnutzung für unser Gebäude und droht mehrere 10.000€ Strafe an, wenn wir es nicht räumen. Wir sollen aktuell dem Bauamt beweisen, dass unser Haus ein Bestands-Wohngebäude ist. Das Gebäude hätte zu lange leer gestanden. Das soll eigentlich in einem regulären Gerichtsprozess entschieden werden. Dem Amt geht das allerdings nicht schnell genug. Wegen „negativer Vorbildwirkung einer neu begonnen Nutzung“ fordert es, dass wir das Haus sofort räumen und bis zu einer richterlichen Entscheidung leer stehen lassen. Als Konsequenz eines ähnlichen Vorgehens durch das Amt wurde das Nachbargebäude [Wartenbergstraße 21 (Klick Hier)](Wartenbergstr21) nach längerem Leerstand abgerissen.
+Bereits in den ersten Kommunikationen mit dem Amt wurden wir dazu aufgefordert, einen Bauantrag für ein Gewerbegebäude zu stellen. Diese Forderung würde für uns bedeuten, dass wir einen klassischen Berliner Wohnbau, wie ihn tausende von Berlinern bestandsgeschützt bewohnen, zu einem Gewerbegebäude nach aktuellem Baurecht umbauen müssten. Hölzerne Türen, Böden und Treppenauflagen müssten Stahl und Beton weichen. 
 Die Forderung des Amts beruht auf zwei Punkten () die gerichtlich bereits entschieden wurden bzw. Gegenstand des noch ausstehenden Hauptprozesses sind. Wir haben als Gruppe in Eigenleistung ein Gebäude wieder vollständig nutzbar gemacht und sollen es nun bis zum [Hauptprozess (Klick Hier)](Hauptprozess) den Gefahren des Leerstands preisgeben. Unter Strafandrohung werden wir dazu aufgefordert woanders nach Mietmöglichkeiten zu suchen. 
 
 Das Liegenschaftsamt, das Finanzamt und das
