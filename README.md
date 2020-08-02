@@ -1,4 +1,4 @@
-[ Bitte unterschreibt unsere Petition: Wartenburg Berlin bleibt (Klick Hier)](https://www.openpetition.de/petition/online/wartenburg-berlin-bleibt)
+## [ Bitte unterschreibt unsere Petition: Wartenburg Berlin bleibt (Klick Hier)](https://www.openpetition.de/petition/online/wartenburg-berlin-bleibt)
 
 ![Image](burglogo.jpg)
 
