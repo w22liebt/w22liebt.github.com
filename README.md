@@ -62,12 +62,13 @@ Wir restaurieren, planen, gestalten und tragen die Organisation sowie Verantwort
 ### [Kreativ](Kreativ)
 
 -künstlerisch und handwerklich arbeitende Bewohner des Hauses
+<br />
  (Filmemacherinnen, Fotografin, Maler, Theatermacher, Tänzerinnen, Plastiker, Tischler, Restaurator, Steinmetze, Segel- und Zeltmacherin, Köche und Bootsbauer) 
  <br />
 -Ausstellungsflächen für Künstler mit Ringbahnblick
 <br />
--regelmäßiges Musizieren mit Bewohnern, Gästen, Kindern und eingeladenen Musiker
-<br />n
+-regelmäßiges Musizieren mit Bewohnern, Gästen, Kindern und eingeladenen Musikern
+<br />
 -Gemeinschaftsflächen für Kunst und Kulturvorhaben 
 <br />
 -beliebter Ort für Filmdrehs und Fotoshootings 
@@ -79,7 +80,7 @@ Wir restaurieren, planen, gestalten und tragen die Organisation sowie Verantwort
 
 ### [Solidarisch](Solidarisch)
 
--Residenzförderprogramm für Frauen mit innovativen Ideen zur Verbesserung der Lage der Welt 
+-Residenzförderprogramm für Frauen mit innovativen Ideen zur Verbesserung der Welt 
 <br />
 -gesicherter, günstiger Wohnraum <br />
 -aktive Unterstützungen für private und berufliche Vorhaben aller Bewohner 
