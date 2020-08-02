@@ -5,7 +5,7 @@
 
 
 Das Haus wurde von uns als solidarisches Kollektiv 2016 erworben und renoviert, mit der Vision einen Ort zu schaffen, 
-an dem wir leben, arbeiten und uns intensiv austauschen können.
+an dem wir leben, arbeiten und uns intensiv austauschen und kreativ sein können.
 
 Die Wartenburg ist ein 5 stöckiger Altbau, der als typisches Berliner Wohnhaus im Jahre 1893 
 mit angrenzendem Garten in der Wartenbergstr. 22 in 10365 Berlin/ Lichtenberg errichtet wurde.
@@ -31,8 +31,8 @@ Wir wollen unser Haus nicht dem Zerfall überlassen.
 <br />
 #### Akut will uns der Bezirk die Nutzung untersagen und droht mit Räumung
 <br />
-
-Das Bauamt Lichtenberg untersagt uns die Wohnnutzung für unser Gebäude und droht mehrere 10.000€ Strafe an, wenn wir es nicht räumen. Wir sollen aktuell dem Bauamt beweisen, dass unser Haus ein Bestands-Wohngebäude ist. Das Gebäude hätte zu lange leer gestanden. Das soll eigentlich in einem regulären Gerichtsprozess entschieden werden. Dem Amt geht das allerdings nicht schnell genug. Wegen „negativer Vorbildwirkung einer neu begonnenen Nutzung“ fordert es, dass wir das Haus sofort räumen und bis zu einer richterlichen Entscheidung leer stehen lassen. Als Konsequenz eines ähnlichen Vorgehens durch das Amt wurde das Nachbargebäude [Wartenbergstraße 21 (Klick Hier)](Wartenbergstr21) nach längerem Leerstand abgerissen.
+Das Bauamt Lichtenberg untersagt uns die Nutzung für unser Gebäude und droht mehrere 10.000€ Strafe an, wenn wir es nicht räumen. Das Bauamt behauptet wider besseren Wissens, dass unser Haus nie ein Wohnhaus, sondern immer schon Gewerbehaus war und deshalb nicht bewohnt werden kann. Obwohl die Vorbewohner bekannt sind, Die Telefon- und Adressbücher bis 1893 nachzuvollziehen sind und Mitarbeiterinnen des Amtes unter der Hand zugeben, dass das Haus immer schon Wohnhaus war, sollen wie nun ausziehen.
+Wir empfinden es als einen Skandal, dass wir noch vor dem eigentlichen Gerichtsurteil ausziehen müssen und dass ein das Amt zu solchen Mitteln greift. Diese Frage soll eigentlich in einem regulären Gerichtsprozess entschieden werden. Dem Amt geht das allerdings nicht schnell genug. Wegen „negativer Vorbildwirkung einer neu begonnenen Nutzung“ fordert es, dass wir das Haus sofort räumen und bis zu einer richterlichen Entscheidung leer stehen lassen. Als Konsequenz eines ähnlichen Vorgehens durch das Amt wurde das Nachbargebäude [Wartenbergstraße 21 (Klick Hier)](Wartenbergstr21) nach längerem Leerstand abgerissen.
 Bereits in den ersten Kommunikationen mit dem Amt wurden wir dazu aufgefordert, einen Bauantrag für ein Gewerbegebäude zu stellen. Diese Forderung würde für uns bedeuten, dass wir einen klassischen Berliner Wohnbau, wie ihn Tausende von Berlinern bestandsgeschützt bewohnen, zu einem Gewerbegebäude nach aktuellem Baurecht umbauen müssten. Hölzerne Türen, Böden und Treppenauflagen müssten Stahl und Beton weichen. 
 Die Forderung des Amts beruht auf zwei Punkten, die gerichtlich bereits entschieden wurden bzw. Gegenstand des noch ausstehenden Hauptprozesses sind. Wir haben als Gruppe in Eigenleistung ein Gebäude wieder vollständig nutzbar gemacht und sollen es nun bis zum [Hauptprozess (Klick Hier)](Hauptprozess) den Gefahren des Leerstands preisgeben. Unter Strafandrohung werden wir dazu aufgefordert, woanders nach Mietmöglichkeiten zu suchen. 
 
