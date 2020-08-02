@@ -1,3 +1,4 @@
-Das sind wir, die in der Burg leben tun
-![Image](biogen1.JPG)
- ![Image](biopic2.JPG) 
+# Das sind wir
+![Image](bios1.JPG)
+![Image](bios2.JPG) 
+![Image](bios3.JPG)
