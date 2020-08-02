@@ -62,39 +62,63 @@ Wir restaurieren, planen, gestalten und tragen die Organisation sowie Verantwort
 ### [Kreativ](Kreativ)
 
 -künstlerisch und handwerklich arbeitende Bewohner des Hauses
- (Filmemacherinnen, Fotografin, Maler, Theatermacher, Tänzerinnen, Plastiker, Tischler, Restaurator, Steinmetze, Segel- und Zeltmacherin, Köche und Bootsbauer) <br />
--Ausstellungsflächen für Künstler mit Ringbahnblick <br />
--regelmäßiges Musizieren mit Bewohnern, Gästen, Kindern und eingeladenen Musiker<br />n
--Gemeinschaftsflächen für Kunst und Kulturvorhaben <br />
--beliebter Ort für Filmdrehs und Fotoshootings <br />
--Artistiktrainingsfläche im Innenhof <br />
+ (Filmemacherinnen, Fotografin, Maler, Theatermacher, Tänzerinnen, Plastiker, Tischler, Restaurator, Steinmetze, Segel- und Zeltmacherin, Köche und Bootsbauer) 
+ <br />
+-Ausstellungsflächen für Künstler mit Ringbahnblick
+<br />
+-regelmäßiges Musizieren mit Bewohnern, Gästen, Kindern und eingeladenen Musiker
+<br />n
+-Gemeinschaftsflächen für Kunst und Kulturvorhaben 
+<br />
+-beliebter Ort für Filmdrehs und Fotoshootings 
+<br />
+-Artistiktrainingsfläche im Innenhof 
+<br />
 -“Außenstelle“ Esperantos (selbstgebauter Hochseekatamaran segelt als Theaterbühne und Wassermessstation dieses Jahr vom Schwarzen Meer nach Griechenland)
 
 
 ### [Solidarisch](Solidarisch)
 
--Residenzförderprogramm für Frauen mit innovativen Ideen zur Verbesserung der Lage der Welt <br />
+-Residenzförderprogramm für Frauen mit innovativen Ideen zur Verbesserung der Lage der Welt 
+<br />
 -gesicherter, günstiger Wohnraum <br />
--aktive Unterstützungen für private und berufliche Vorhaben aller Bewohner <br />
--Inspiration und Kompetenzaustausch <br />
--Einsatz für lebendige und entanonymisierte Hausgemeinschaft UND Nachbarschaft <br />
--Kiezführungen zu Lichtenberger Sehenswürdigkeiten <br />
--internationale Bewohner mit Sprachtandem <br />
--kostenloses Gästezimmer für Reisende, Volontäre und Neuankömmlinge <br />
--Pflege der umliegenden Außenflächen <br />
- (Nachbargrundstück wird zum Garten, Cleaning-up-actions, Fassadenrenovierung) <br />
+-aktive Unterstützungen für private und berufliche Vorhaben aller Bewohner 
+<br />
+-Inspiration und Kompetenzaustausch 
+<br />
+-Einsatz für lebendige und entanonymisierte Hausgemeinschaft UND Nachbarschaft 
+<br />
+-Kiezführungen zu Lichtenberger Sehenswürdigkeiten 
+<br />
+-internationale Bewohner mit Sprachtandem 
+<br />
+-kostenloses Gästezimmer für Reisende, Volontäre und Neuankömmlinge 
+<br />
+-Pflege der umliegenden Außenflächen 
+<br />
+ (Nachbargrundstück wird zum Garten, Cleaning-up-actions, Fassadenrenovierung) 
+ <br />
 
 ###  [Ökologisch](oekologisch)
 
--Erhalt der ursprünglichen Bausubstanz <br />
--Bau mit traditionellen, Re- und upcyclingmaterialien <br />
--Rettung von historischen Baustoffen aus Abrissprojekten <br />
--Verbesserung des Wärmeisolationswertes <br />
--Solaranlagen ergänzen den Stromverbrauch <br />
--aktive und organisierte Lebensmittelrettung und Verteilung <br />
--Anlegen eines Gartens Wartenbergstr. 22+21 <br />
--Grünfassade mit Brauchwasseraufbereitung (in Planung) <br />
--Fledermausschutzprogramm <br />
+-Erhalt der ursprünglichen Bausubstanz 
+<br />
+-Bau mit traditionellen, Re- und upcyclingmaterialien 
+<br />
+-Rettung von historischen Baustoffen aus Abrissprojekten 
+<br />
+-Verbesserung des Wärmeisolationswertes 
+<br />
+-Solaranlagen ergänzen den Stromverbrauch 
+<br />
+-aktive und organisierte Lebensmittelrettung und Verteilung 
+<br />
+-Anlegen eines Gartens Wartenbergstr. 22+21 
+<br />
+-Grünfassade mit Brauchwasseraufbereitung (in Planung) 
+<br />
+-Fledermausschutzprogramm 
+<br />
 -Gemeinschaftsauto für große Transporte – Rest mit Fahrrad oder Öffis 
 <br />
 <br />
