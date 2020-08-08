@@ -22,7 +22,7 @@ Hier wird gelebt, geliebt,
 gelacht, geweint, diskutiert und kreiert.
 Jetzt sollen wir unser eigenes Haus räumen, bevor ein Urteil im Hauptprozess gefällt wurde. 
 Die Nutzungsuntersagung ist unrechtens und widerspricht den notwendigen wohnpolitischen Zielen dieser Stadt. 
-##  [Wir wollen unser Haus nicht dem Zerfall überlassen.](zerfall)
+[Wir wollen unser Haus nicht dem Zerfall überlassen(Klick Hier)](zerfall)
 
 ![Image](3erFasadegrau.PNG.png)
 
