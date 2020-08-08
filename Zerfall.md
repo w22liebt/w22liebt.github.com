@@ -1,3 +1,3 @@
-[Image](Herz.JPG)
+![Image](Herz.JPG)
 VORHER <-> NACHHER
-[Image](DSC01330.JPG)
+![Image](DSC01330.JPG)
