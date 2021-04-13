@@ -2,7 +2,9 @@
 <br />
 ### [ Bitte unterschreibt HIER und rettet unseren Wohn- und Lebensraum](petition.pdf)
 ![Image](unterschriftenpnorama.JPG)
-## Abgabe der Unterschriftenzettel: -per Post ODER Postbox an unserer Haustür: Wartenbergstraße 22, 10365 Berlin ODER am Sonntag den 16. Mai von 10 – 15 Uhr bei unserem „Tag vor der Tür“ (petition.pdf)
+## [Abgabe der Unterschriftenzettel:
+<br />
+-per Post ODER Postbox an unserer Haustür: Wartenbergstraße 22, 10365 Berlin ODER am Sonntag den 16. Mai von 10 – 15 Uhr bei unserem „Tag vor der Tür“] (petition.pdf)
 
 <br />
 ![Image](burglogo.jpg)
