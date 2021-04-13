@@ -1,4 +1,3 @@
-<br />
 ##                   Niedrige Mieten statt sinnloser Leerstand
 <br />
 ### [ Bitte unterschreibt HIER und rettet unseren Wohn- und Lebensraum](petition.pdf)
