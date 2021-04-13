@@ -1,8 +1,6 @@
 <br />
-## Niedrige Mieten statt Leerstand - Erhalt statt Neubau
-<br />
 ### [ ! Bitte unterschreibt HIER und rettet unseren Wohn- und Lebensraum ! ](petition.pdf)
-![Image](unterschriftenpnorama.JPG)
+![Image](panogelb1.JPG)
 ## [Abgabe der Unterschriftenzettel:](petition.pdf) 
 <br /> per Post ODER Postbox an unserer Haustür: Wartenbergstraße 22, 10365 Berlin ODER am Sonntag den 16. Mai von 10 – 15 Uhr bei unserem „Tag vor der offenen Tür“
 
