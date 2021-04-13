@@ -145,6 +145,9 @@ Wir restaurieren, planen, gestalten und tragen die Organisation sowie Verantwort
  
 ####                      find us on Facebook [Wartenburg Berlin   (Klick Hier)](https://www.facebook.com/wartenburgberlinbleibt/)
 <br />
+####                     and follow us on Instagram [Wartenburg Berlin   (Klick Hier)](https://www.instagram.com/wartenburg_berlin/)
+
+<br />
 Jede solidarische Unterstützung und jeder
 Erfahrungsaustausch zum Thema ist sehr
 willkommen.
