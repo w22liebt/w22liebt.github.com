@@ -1,7 +1,7 @@
 <br />
 ### [Bitte unterschreibt HIER und rettet gemeinsamen Wohn- u Lebensraum](petition.pdf)
 ![Image](unterschriftenpnorama3.jpg)
-## [Abgeben könnt ihr eure Unterschriftenzettel:](petition.pdf) 
+## [Abgeben könnt ihr eure Unterschriftenzettel:](unterschriftenzettel.pdf) 
 per Post ODER Postbox an unserer Haustür: Wartenbergstraße 22, 10365 Berlin ODER am Sonntag den 30. Mai von 10 – 15 Uhr bei unserem „Tag vor der offenen Tür“ ODER schreibt uns Info@w22liebt.de
 
 <br />
