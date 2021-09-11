@@ -1,4 +1,3 @@
-<br />
 ### [ALLES UBER UNS IN DIESEM VIDEO](https://vimeo.com/601848192)
 ![Image](unterschriftenpnorama3.jpg)
 ## [Bitte unterschreibt HIER und rettet gemeinsamen Wohn- u Lebensraum <br /> Abgeben könnt ihr eure Unterschriftenzettel:](unterschriftenzettel.pdf) 
