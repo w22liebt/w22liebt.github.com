@@ -1,8 +1,8 @@
 <br />
 ### [ <<Play <<Play <<    ALLES UBER UNS - IN DIESEM VIDEO   >> Play>> Play>>](https://www.instagram.com/tv/CTpKt7iLP4S/?utm_medium=copy_link)
 ![Image](unterschriftenpnorama3.jpg)
-## [Bitte unterschreibt HIER und rettet Wohn- u Lebensraum <br /> Abgeben könnt ihr eure Unterschriftenzettel:](unterschriftenzettel.pdf) 
-per Post ODER Postbox an unserer Haustür: Wartenbergstraße 22, 10365 Berlin ODER am Sonntag den 30. Mai von 10 – 15 Uhr bei unserem „Tag vor der offenen Tür“ ODER schreibt uns Info@w22liebt.de
+## Werden hier Wahlversprechen wahr?
+"Die Schaffung von Wohnraum hat oberste Priorität" GRÜNE und DIE LINKE setzten sich auch nach der Wahl für uns ein!
 
 <br />
 ![Image](burglogo.jpg)
