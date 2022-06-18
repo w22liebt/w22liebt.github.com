@@ -3,8 +3,7 @@
 ![Image](demo.jpg)
 <br />
 ![Image](unterschriftenpnorama3.jpg)
-<br />
-### Der weiterbau der Autobahn bedroht unser Haus
+### Der Weiterbau der Autobahn bedroht auch unser Haus
 "Die Schaffung von Wohnraum hat oberste Priorität" GRÜNE und DIE LINKE setzten sich auch nach der Wahl für uns ein!
 
 <br />
